@@ -1,0 +1,7 @@
+*_logs/
+*.bak
+*.swp
+*.tmp
+*.o
+include.txt
+.DS_Store
